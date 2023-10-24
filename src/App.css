@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.main-nav{
+  
+  margin: 20px;
+}
+.cards{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+
+}
+
+.footer{
+  color: #9E9E9E;
+  margin: 30px;
+  text-align: center;
+}
+.footer span{
+  text-decoration: underline;
+}
+

@@ -1,0 +1,15 @@
+.navigation{
+    
+    display: flex;
+    flex-direction: row;
+}
+.push{
+ float: right;
+ background-color: orangered;
+ width: 200px;
+}
+.searchbar{
+    width: 180px;
+    align-items: center;
+    height: 30px;
+}
